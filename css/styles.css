@@ -1,0 +1,138 @@
+body{
+  margin: 0;
+  color: #D82148;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.rule{
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 10px;
+  color: #F4BBBB;
+  width: 10%;
+}
+
+p{
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 2;
+  width: 50%;
+}
+
+h1{
+  margin:0;
+  font-size: 300%;
+  line-height: 1.25;
+  color: #05595B;
+  font-family: 'Merienda', cursive;
+}
+
+#main-text{
+  margin-bottom: 0;
+  font-weight: normal;
+}
+
+h2{
+  color: #05595B;
+  font-weight:bolder;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  color: #11999E;
+  line-height: 1;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link{
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  color: #DFF6FF;
+}
+
+.footer-link:hover{
+  font-weight: bold;
+  color: #FDEFF4;
+}
+
+.main-gif{
+  width: 50%;
+  margin-top: 0;
+}
+
+.top-container{
+  position: relative;
+  top: 40px;
+}
+
+.dp{
+  margin-top: 70px;
+  width: 15%;
+}
+
+.middle-container{
+  background-color: #FDEFF4;
+  margin-top: 40px;
+  padding-bottom: 70px;
+  position: relative;
+}
+
+.profile{
+  margin-bottom: 90px;
+}
+
+.skill-row{
+  line-height: 2;
+}
+
+.skills{
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.coding{
+  margin-top: 10px;
+  width: 15%;
+  border-radius: 50%;
+}
+
+.bottom-container{
+  position: relative;
+  padding-top: 40px;
+  margin-top: 1px;
+  background-color: #C69B7B;
+}
+
+.contact-me{
+  margin-top: 90px;
+}
+.btn {
+  background: #C69B7B;
+  background-image: -webkit-linear-gradient(top, #C69B7B, #826F66);
+  background-image: -moz-linear-gradient(top, #C69B7B, #826F66);
+  background-image: -ms-linear-gradient(top, #C69B7B, #826F66);
+  background-image: -o-linear-gradient(top, #C69B7B, #826F66);
+  background-image: linear-gradient(to bottom, #C69B7B, #826F66);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: verdana;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #39AEA9;
+  text-decoration: none;
+}
+
+#copy{
+  color: white;
+  font-size: 15px;
+  padding: 20px;
+  margin-bottom: 0;
+}
